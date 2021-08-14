@@ -1,0 +1,30 @@
+.cards-field_8elem{
+  margin: auto auto;
+  width: 100%;
+  background-color:lightgray;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px;
+  grid-template-rows: 95px 95px 95px 95px;
+  gap: 15px;
+  justify-content: center;
+}
+.cards-field_18elem{
+  margin: auto auto;
+  width: 100%;
+  background-color:lightgray;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
+  grid-template-rows: 95px 95px 95px 95px 95px 95px;
+  gap: 15px;
+  justify-content: center;
+}
+.cards-field_32elem{
+  margin: auto auto;
+  width: 100%;
+  background-color:lightgray;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px;
+  grid-template-rows: 95px 95px 95px 95px 95px 95px 95px 95px;
+  gap: 15px;
+  justify-content: center;
+}

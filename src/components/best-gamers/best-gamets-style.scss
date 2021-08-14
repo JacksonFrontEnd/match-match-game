@@ -1,0 +1,38 @@
+.best-players {
+  background-color:#fff;
+  border-radius: 5px;
+  width: 1000px;
+  margin: 50px auto;
+  font-family: Roboto;
+  font-size: 16px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  gap: 25px;
+  color: #000;
+}
+.best-players__title{
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.15px;
+  margin: 0;
+}
+.best-players__wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.name-block{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.best-players__name {
+
+}
+.best-players__email{
+  font-weight: normal;
+}
+.best-players__score {
+  padding-top: 10px;
+}
